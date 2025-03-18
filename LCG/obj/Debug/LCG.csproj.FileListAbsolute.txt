@@ -1,0 +1,11 @@
+C:\Users\Tarek Abo Elenen\source\repos\LCG\LCG\bin\Debug\LCG.exe.config
+C:\Users\Tarek Abo Elenen\source\repos\LCG\LCG\bin\Debug\LCG.exe
+C:\Users\Tarek Abo Elenen\source\repos\LCG\LCG\bin\Debug\LCG.pdb
+C:\Users\Tarek Abo Elenen\source\repos\LCG\LCG\obj\Debug\LCG.csproj.AssemblyReference.cache
+C:\Users\Tarek Abo Elenen\source\repos\LCG\LCG\obj\Debug\LCG.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tarek Abo Elenen\source\repos\LCG\LCG\obj\Debug\LCG.Form1.resources
+C:\Users\Tarek Abo Elenen\source\repos\LCG\LCG\obj\Debug\LCG.Properties.Resources.resources
+C:\Users\Tarek Abo Elenen\source\repos\LCG\LCG\obj\Debug\LCG.csproj.GenerateResource.cache
+C:\Users\Tarek Abo Elenen\source\repos\LCG\LCG\obj\Debug\LCG.csproj.CoreCompileInputs.cache
+C:\Users\Tarek Abo Elenen\source\repos\LCG\LCG\obj\Debug\LCG.exe
+C:\Users\Tarek Abo Elenen\source\repos\LCG\LCG\obj\Debug\LCG.pdb
